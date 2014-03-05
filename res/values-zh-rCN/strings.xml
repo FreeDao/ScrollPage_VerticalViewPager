@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 全局 -->
+    <string name="app_name">阅读器</string>
+    <string name="app_dialog_yes">确定</string>
+    <string name="app_dialog_no">取消</string>
+    <string name="action_select_all">选择全部</string>
+
+    <!-- 侧边栏 -->
+    <string name="sliding_menu_personal_category">个人中心</string>
+    <string name="sliding_menu_fav">收藏夹</string>
+    <string name="sliding_menu_offline_download">离线下载</string>
+    <string name="sliding_menu_my_comment">我的评论</string>
+    <string name="sliding_menu_setting">设置</string>
+    <!-- 标题栏 -->
+    <string name="actionbar_home">首页</string>
+    <string name="actionbar_my_book">我的订阅</string>
+    <string name="actionbar_add_channel">添加订阅</string>
+    <string name="actionbar_search">搜索</string>
+    <string name="actionbar_search_hint">搜索</string>
+    <string name="actionbar_my_reply">回复我的</string>
+    <!-- 菜单栏 -->
+    <string name="menu_refresh">刷新</string>
+    <string name="menu_add_channel">订阅</string>
+    <string name="menu_only_text">仅加载文本</string>
+    <string name="menu_with_picture">全图浏览</string>
+    <string name="menu_edit">编辑</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_add_comment">添加评论</string>
+    <string name="menu_fav">添加到收藏夹</string>
+    <string name="menu_font">字号</string>
+    <string name="menu_light_mode">夜间模式</string>
+    <string name="menu_done">完成</string>
+    <string name="menu_download_all_start">全部开始</string>
+    <string name="menu_download_all_pause">全部暂停</string>
+
+    <string-array name="menu_download_pop">
+        <item>开始</item>
+        <item>暂停</item>
+    </string-array>
+    <!-- 首页 -->
+    <string name="today_hot_news">今日热点</string>
+    <string name="list_header_today">今天</string>
+    <string name="list_header_yesterday">昨天</string>
+    
+    <!-- 文章界面 -->
+    <string name="next_article">下一篇</string>
+    <string name="prev_article">上一篇</string>
+    <!-- 提示 -->
+    <string name="toast_add_success">收藏成功</string>
+
+    <!-- 设置 -->
+    <!-- 1级界面 -->
+    <string name="setting_account">账号设置</string>
+    <string name="setting_clear_cache">清除缓存</string>
+    <string name="setting_offline_download">离线下载设置</string>
+    <string name="setting_important_news_push">要闻推送</string>
+    <string name="setting_account_not_login">未登录</string>
+    <!-- 2级界面 -->
+    <string name="setting_account_flyme_login">登录flyme账号</string>
+    <string name="setting_account_flyme_account">flyme账号</string>
+    <string name="setting_account_other_account_login">登录其他账号</string>
+    <string name="setting_account_tencent_weibo">腾讯微博</string>
+    <string name="setting_account_douban">豆瓣笔记</string>
+    <string name="setting_account_sina_weibo">新浪微博</string>
+    <string name="setting_account_login_flyme">登录flyme账号</string>
+    <string name="setting_account_login_other">登录其它账号</string>
+    <string name="setting_account_register">注册</string>
+    <string name="setting_account_forget">忘记？</string>
+    <!--  -->
+    <string name="setting_download_type">下载类型</string>
+
+    <string-array name="setting_download_types">
+        <item>全图浏览</item>
+        <item>仅加载文本</item>
+        <item>智能模式</item>
+    </string-array>
+
+    <string name="setting_download_in_time">定时离线下载</string>
+    <string name="setting_download_add_time">添加离线下载时间</string>
+    <string name="setting_download_channel">离线下载频道</string>
+    <string name="empty_loading">正在加载...</string>
+    <string name="empty_net_error">网络错误</string>
+    <string name="empty_net_error_over_time">网络超时</string>
+    <string name="empty_net_reload">重新加载</string>
+    <string name="no_network_connection_error">无网络链接</string>
+    <string name="server_timeout_error">网络超时</string>
+    <string name="no_article">无文章</string>
+    <string name="zeroMB">0MB</string>
+    <string name="pref_privacy_clear_cache_title">清除缓存</string>
+    <string name="pref_privacy_clear_cache_summary">确定要清除所有缓存文件吗？</string>
+    <string name="updatting">正在更新</string>
+    <string name="pause_update">暂停更新</string>
+    <string name="waiting_update">等待更新</string>
+    <string name="update_completed">更新完成</string>
+    <string name="hint_account_text">账号</string>
+    <string name="hint_password_text">密码</string>
+    <string name="input_flyme_account_passwd">输入flyme账号密码</string>
+    <string name="exit">退出</string>
+    <string name="password_error">账户或密码错误</string>
+    <string name="show_hidden_comment">展开隐藏楼层</string>
+    <string name="user_avater">avater</string>
+    <string name="add_comment">添加回复</string>
+    <string name="add_comment_content">请添加回复内容</string>
+    <string name="add_comment_success">添加回复成功</string>
+    <string name="add_comment_fail">添加回复失败</string>
+    <string name="loadding_more">正在载入</string>
+
+</resources>
